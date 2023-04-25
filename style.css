@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+ background-image: url(/img/wp1874173.webp);
+ background-position: center;
+ background-size: cover;
+ 
+
+}
+.Main{
+   margin: 0 auto;
+   width: 50%;
+   background-color: rgba(0, 0, 0, 0.593);
+   color: #fff;
+  
+   /* box-shadow: 6px 1px 1px ; */
+   border: 2px dotted rgb(236, 234, 234);
+   height: 1000px;
+   margin-top: 50px;
+   border-radius: 10px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   -ms-border-radius: 10px;
+   -o-border-radius: 10px;
+   
+  
+}
+.form{
+    position:relative;
+    top: 50px;
+    margin: 0 auto;
+    width: 50%;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+       gap: 30px;
+       padding-bottom: 100px;
+}
+.box h1{
+    text-align: center;
+}
+
+.cont{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding:20px;
+     
+}
+
+.cont input{
+    margin-bottom: 40px;
+}
+.Button{
+  margin: auto;
+  width: 50%;
+  
+ 
+}
+.Button button
+{
+    background-color: transparent;
+    width: 100px;
+    color: rgb(255, 255, 255);
+    
+}
