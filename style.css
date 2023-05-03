@@ -3,12 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
- background-image: url(/img/wp1874173.webp);
- background-position: center;
- background-size: cover;
- 
-
+.body{
+    background-image: url(img/wp1874173.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 .Main{
    margin: 0 auto;
